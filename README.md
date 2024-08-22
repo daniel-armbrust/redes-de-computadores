@@ -11,3 +11,6 @@ Repositório de códigos e material de apoio prático para a disciplina de **RED
 
 - **cisco-packet-tracer/**
     - Cisco Packet Tracer - Topologias de exemplo.
+
+- **docs/**
+    - Documentos diversos.
